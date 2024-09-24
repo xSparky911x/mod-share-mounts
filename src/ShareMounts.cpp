@@ -7,6 +7,7 @@
 #include "Config.h"
 #include "Chat.h"
 #include "Spell.h"
+#include "SpellMgr.h"
 
 class ShareMounts_PlayerScript : public PlayerScript
 {
